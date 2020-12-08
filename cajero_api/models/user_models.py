@@ -7,4 +7,3 @@ class UserIn(BaseModel):
 class UserOut(BaseModel):
     username: str
     balance: int
-
